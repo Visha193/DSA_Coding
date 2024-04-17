@@ -5,8 +5,8 @@ public class MaxSubArray_iii {
     //     int cs = 0;
     //     int ms = Integer.MIN_VALUE;
 
-    //     // Q : give me the code that passed the all negative test cases
-    //     // A : we will take the maximum value of the array and then we will check if the sum is negative then we will start from 0
+        //! Q : give me the code that passed the all negative test cases
+        //! A : we will take the maximum value of the array and then we will check if the sum is negative then we will start from 0
         
 
     //     for(int i=0; i<nums.length;i++){ // traversing the array
