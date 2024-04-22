@@ -1,0 +1,97 @@
+Java Input & Output
+--------------------
+
+Java Provides different ways to get input from the user.
+------------
+Scanner class
+---------------
+
+Java Operators
+---------------
+
+Operators are symbols that perform operations on variables and values. For eg, 
++ -> is an operator used for addition.
+* -> is an operator used for multiplication.
+
+Operators in java into 6 Types:
+
+1. Arithmetic
+2. Assignment
+3. Relational
+4. Logical
+5. Unary
+6. Bitwise
+
+/ Division Operators
+
+a / b
+
+If we use division operator for 2 integers, the resulting quotient will also be an integer.
+And if one of the operands is a floating point number, we will get a result which will also be floating point.
+
+(9 / 2) is 4
+(9.0 / 2) is 4.5
+(9 / 2.0) is 4.5
+(9.0 / 2.0) is 4.5
+
+/ modulo operators
+
+% remainder.
+
+whwn a = 7 is divided by b = 4, then the remainder is going to be 3.
+
+2. Java Assignment Operators
+-------------------------------
+
+3. Java Relational Operators
+-------------------------------
+
+4. Logical Operators
+----------------------
+
+5. Unary Operators
+--------------------
+
+++ -- prefix and postfix
+----------
+
+++ -> increases the value of a variable by 1
+-- -> decrements the value of a variable by 1
+
+a = 5
+++a -> 6
+a++ -> 7
+--a -> 6
+a-- -> 5
+
+If I use ++ operator as a prefix like ++val, the value of val is incremented by 1, they it returns the value.
+
+++a
+
+If I use ++ operator as a Postfix like : the original value of val is returned first and val is incremented by 1.
+
+Bitwise Operators
+------------------
+
+Conditional Statements
+-------------------------
+
+If (it is raining outside), then {I will stay at home}, otherwise, {I will go out.}
+
+If(prime subscription == true){
+    //show some screen with all movies accessible
+
+}
+else
+{
+    //some other screen
+}
+
+if(condition)
+
+1. if
+
+2. if else
+
+3. if else if else
+

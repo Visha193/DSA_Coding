@@ -1,0 +1,123 @@
+Basic Input & Output
+-----------------------------
+
+Output  ->
+
+1. System.out.println() or
+2. System.out.print()
+3. System.out.printf()
+
+Input   ->
+
+DataTypes and Variables
+
+Variables
+------------
+
+A Variable is a Location in memory to hold data.
+
+To indicate the storage area, each variable should be given a unique name -> Java Identifiers.
+
+Java is a Staticly typed language. It means that all variables must be declared before they can be used.
+
+variable / container
+variable name / Identifier
+
+Rules for Naming Variable in Java 
+-----------------------------------
+
+1. Java is a Case Sensitive language
+
+age, AGE, AGE
+
+2. Variables names must start either a letter or an underscore _, or a dollar $ sign.
+
+int age;
+int _age; // bad practice
+int $age; // bad practice
+
+int 1age; //wrong
+int my age; //wrong variables names cannot have white spaces.
+
+
+int printRollNo;
+
+Variable names need to make Sense
+
+int s
+int n
+int l
+
+DataTypes
+
+Data Types specify the different sizes and values that can be stored in a variable.
+
+1. Primitive Data Types -> boolean, byte, char, int, float, short, double, long.
+
+2. Non-Primitive Data Types -> classes, interfaces, arrays, string etc.
+
+1. Boolean
+------------
+
+2 Possible values -> true/false
+
+Default value : false
+
+They are usually for true and false conditions.
+
+2. byte
+------------
+
+The byte data type can have values from -128 to 127
+
+3. short
+-----------
+
+hold values from -32768 to 32767
+Default: 0
+
+4. int
+---------
+
+-2^31 to 2^31 - 1
+Default: 0
+
+5. long
+----------
+
+-2^63 to 2^63 - 1
+Default: 0
+
+6. double
+-----------
+
+Double precision 64-bit floating point digit.
+It should never be used precision values such as currency.
+Default: 0.0
+
+7. float
+===========
+
+float is a single precision 32-bit floating point.
+Default: 0.0
+
+8. char
+------------
+
+Its a 16 bit Unicode character
+
+The Minimum value of char data type is '\u0000' (0) and the maximum value is '\uffff'
+
+Java Comments
+----------------
+Comments are a portion of a program that are completely ignored by java COmpilers. They are mainly used to help programmers understand the code.
+
+Types of Comments in Java
+---------------------------
+
+1. Single Line Comment     //
+
+2. Multi-line Comment      /*  */
+
+
+

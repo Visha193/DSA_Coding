@@ -1,0 +1,55 @@
+In Computer programming, loops are used to repeat a block of code.
+
+- In Java 
+Three Types Of Loops :
+
+1. for loop
+2. while loop
+3. do while
+
+for loop: 
+--------------
+
+for loop is used to run a block of code in a certain number of times.
+
+Syntax: 
+
+for(initialExpression; testExpression; updateExpression)
+{
+    //(body of loop)
+}
+
+- initialExpression -> Declaring variables/Executed once
+- testExpression -> Condition is evaluated. If condition is true.
+- updateExpression -> Update the value of initial expression.
+
+while loop:
+--------------
+
+while loop is used to run a block of code, when the number of iterations is unknown. 
+
+Syntax:
+
+initialExpression;
+while(testExpression)
+{
+    [              ]
+    updateExpression
+}
+
+Do while loop:
+--------------
+
+Do while loop is used to run a block of code, when the number of iterations is unknown. 
+
+Execution once before the test condition is checked.
+
+Syntax:
+
+do
+{
+    [               ]
+    updateExpression
+}while(testExpression);
+
+

@@ -1,0 +1,30 @@
+Switch Statements
+-------------------
+
+Allows us to execute a block of code among many alternatives.
+
+Syntax : 
+
+switch(){
+    case(val 1):
+    //code
+    break;
+    case(val 2):
+    //code
+    break;
+    default:
+    //default
+}
+
+Java Expression
+------------------
+
+num1 == num2
+"Num 1 is greator than num 2"
+
+Java Statements
+-----------------
+
+each statement is a complete unit of execution.
+
+int CSKscore = 175;
